@@ -1,3 +1,4 @@
+i am fool
 conflict
 chanhing
 something
